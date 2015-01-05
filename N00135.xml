@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <body>
          <div type="orders">
-            <pb facs="tcp:000190_0000_0FA3171A46785388"/>
-            <pb facs="tcp:000190_0001_0FA3171B0649B9D8"/>
+            <pb facs="unknown:000190_0000_0FA3171A46785388"/>
+            <pb facs="unknown:000190_0001_0FA3171B0649B9D8"/>
             <head>Several LAWS and ORDERS Made at the GENERAL COURT. Holden at Boston the twenty seventh of May 1674 And Printed by their Order, Edward Rawson Secret.</head>
             <div type="order">
                <head>Judgements frustrated by Persons.</head>
@@ -122,7 +122,7 @@
                   <hi>have been made frustrate; For the prevention whereof;</hi>
                </p>
                <p>The Court doth Order and Declare; <note place="margin">Tendring goods, Lands &amp;. not their own, how, to be made good.</note> Where any Execution shall be Levyed on any Houses, Lands and Goods, and delivered to the Parties for whom the Judgement was granted, and the said Execution returned according to Law; if it shall appear the Person whose Lands, Goods or Houses were levyed by Execution, have affirmed, or delivered, or tendred the said Goods, Lands or Houses as his own, which in reality
-<pb facs="tcp:000190_0002_0FA3171BC73EC068"/>
+<pb facs="unknown:000190_0002_0FA3171BC73EC068"/>
 were not his own proper Estate, and in the same condition of Estate as he did tender them either to the Officer or Parties for whom the Execution is levyed such person so endeavouring by such Action to delude the Law and defraud the Creditor, shall be liable to pay double damages to the party grieved, and Pay such fine as the County Court shall see cause to impose.</p>
                <p>And if any party that hath obtained an Execution, shall adventure to levy the same upon Lands, Houses or Goods, commonly accounted the Houses Lands or Goods of the person against whom the Judgement was granted, and the Execution be returned according to Law, <note place="margin">County Co &amp;c. to renew Execu<g ref="char:EOLhyphen"/>tions in Case &amp;c</note> if it afterwards appear, the said Houses Lands or Goods were not the Houses, Lands or Goods of the said Parties against whom the Judgement was given, the party that was so mistaken making the same to appear to the Court that granted the Judgement, the said Court shall Order a new Execution for the satisfying of the Judgement not<g ref="char:EOLhyphen"/>withstanding the former Execution returned.</p>
             </div>
@@ -138,7 +138,7 @@ were not his own proper Estate, and in the same condition of Estate as he did te
                </p>
             </div>
             <div type="order">
-               <pb facs="tcp:000190_0003_0FA3171C85B4A5C8"/>
+               <pb facs="unknown:000190_0003_0FA3171C85B4A5C8"/>
                <p>
                   <hi>THe Law having Provided for Holding of County Courts, where Magistrates are wanting, by such persons of worth</hi> (stiled Associates) <hi>as the Freemen of such Counties should Nominate, being allowed and appointed by the General Court; And there having been too great a neglect of certifying the</hi> General Court, <hi>the Names of the persons so nominated, for their confirmation and appoint<g ref="char:EOLhyphen"/>ing such Persons the Associates for that County.</hi>
                </p>
